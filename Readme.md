@@ -1,6 +1,6 @@
 ﻿# ic-webapp
 
-## **1.1 CONTEXTE**
+## **2.1 CONTEXTE**
 
 La société **IC GROUP** dans laquelle vous travaillez en tant qu’ingénieur Devops souhaite mettre sur pied un site web vitrine devant permettre d’accéder à ses 02 applications phares qui sont :  
 
