@@ -58,4 +58,4 @@ Compte tenu de tout cela, je vous invite tous à donner l’importance à ce vol
 
 Merci de le rédiger correctement avec les captures d’écran, commentaires et explications qui vont bien car cette partie sera prise en compte dans votre note finale.
 
-### ***Bon courage et surtout joyeux noël et meilleurs vœux à tous pour l’année 2022.***
+### ***Bon courage ***
